@@ -137,3 +137,4 @@
 /Users/jsrbl/Documents/git/microservices/PlatformService/obj/Debug/net8.0/PlatformService.pdb
 /Users/jsrbl/Documents/git/microservices/PlatformService/obj/Debug/net8.0/PlatformService.genruntimeconfig.cache
 /Users/jsrbl/Documents/git/microservices/PlatformService/obj/Debug/net8.0/ref/PlatformService.dll
+/Users/jsrbl/Documents/git/microservices/PlatformService/obj/Debug/net8.0/PlatformService.sourcelink.json
